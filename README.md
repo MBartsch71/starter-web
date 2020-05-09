@@ -8,8 +8,11 @@ This is a repository for demonsstrating git commands.
 
 ## Deployment
 
+Can be deployed everywhere.
+
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
+Demonstration of git usage
 
 ## How to contribute
