@@ -16,3 +16,7 @@ Sample website with plenty of files for demos.
 Demonstration of git usage
 
 ## How to contribute
+
+### Copyright
+
+2020 MBH
