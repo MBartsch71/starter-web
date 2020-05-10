@@ -17,6 +17,8 @@ Demonstration of git usage
 
 ## How to contribute
 
+Please fork this repo and then issue Pull requests for review
+
 ### Copyright
 
 2020 MBH
