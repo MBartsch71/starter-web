@@ -22,4 +22,4 @@ Please fork this repo and then issue Pull requests for review
 
 ### Copyright
 
-2020 MBH
+2020 MBH - All rights reserved.
